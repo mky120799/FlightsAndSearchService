@@ -12,7 +12,7 @@
 {
     "development": {
     "username": "root",
-    "password": Mithilesh@123,
+    "password": "yourDBpassword",
     "database": "Flights_Search_DB_LOCAL",
     "host": "127.0.0.1",
     "dialect": "mysql"
